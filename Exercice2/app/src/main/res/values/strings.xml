@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Exercice2</string>
+    <string name="temperature">temperature</string>
+    <string name="celsius">Vers Celsius</string>
+    <string name="fahrenheit">Cers Fahrenheit</string>
+    <string name="calc">calculer</string>
+    <string name="resultat"></string>
+</resources>
